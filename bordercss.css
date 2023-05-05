@@ -97,3 +97,7 @@ h2:hover {
 	background-color: #597D9D;
 	color: #A9BDCF;
 }
+.image {
+	width: 100px;
+	height: 100px;
+}
