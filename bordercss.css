@@ -19,6 +19,7 @@ body {
 	text-align: center;
 	font-family: monospace;
 	font-weight: 200;
+	text-shadow: 5px 3px #9298CE;
 }
 .container h1::before {
 	content: '─';
