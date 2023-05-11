@@ -54,7 +54,7 @@ body {
 .box:last-child {
 	border-right: 0;
 }
-.box .cards {
+.box . {
 	font-size: 2em;
 	color: #AC0000;
 	margin-bottom: 0.6em;
@@ -101,4 +101,52 @@ h2:hover {
 .image {
 	width: 100px;
 	height: 100px;
+}
+.cards1 {
+	font-size: 2em;
+	color: #AC0000;
+	margin-bottom: 0.6em;
+	font-size:23px; 
+	text-align:center;
+	border:5px outset #D86262;
+}
+.cards2 {
+	font-size: 2em;
+	color: #AC0000;
+	margin-bottom: 0.6em;
+	font-size:23px; 
+	text-align:center;
+	border:5px inset #D86262;
+}
+.cards3 {
+	font-size: 2em;
+	color: #AC0000;
+	margin-bottom: 0.6em;
+	font-size:23px; 
+	text-align:center;
+	border:5px dashed #D86262;
+}
+.cards4 {
+	font-size: 2em;
+	color: #AC0000;
+	margin-bottom: 0.6em;
+	font-size:23px; 
+	text-align:center;
+	border:5px dotted #D86262;
+}
+.cards5 {
+	font-size: 2em;
+	color: #AC0000;
+	margin-bottom: 0.6em;
+	font-size:23px; 
+	text-align:center;
+	border:5px ridge #D86262;
+}
+.cards6 {
+	font-size: 2em;
+	color: #AC0000;
+	margin-bottom: 0.6em;
+	font-size:23px; 
+	text-align:center;
+	border:5px double #D86262;
 }
